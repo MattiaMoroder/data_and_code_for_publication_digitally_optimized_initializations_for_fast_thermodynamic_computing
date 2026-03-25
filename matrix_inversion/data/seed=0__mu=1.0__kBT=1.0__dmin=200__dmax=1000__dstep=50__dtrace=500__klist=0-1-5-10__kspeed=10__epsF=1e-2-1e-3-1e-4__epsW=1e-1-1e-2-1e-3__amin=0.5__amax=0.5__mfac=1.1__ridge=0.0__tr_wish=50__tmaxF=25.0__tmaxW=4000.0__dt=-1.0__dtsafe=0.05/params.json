@@ -1,0 +1,23 @@
+{
+  "alpha_max": 0.5,
+  "alpha_min": 0.5,
+  "d_max": 1000,
+  "d_min": 200,
+  "d_step": 50,
+  "d_trace": 500,
+  "dt": -1.0,
+  "dt_safety": 0.05,
+  "epsilon_fixed_list": "1e-2, 1e-3, 1e-4",
+  "epsilon_wishart_list": "1e-1, 1e-2, 1e-3",
+  "fixed_trials": 50,
+  "kBT": 1.0,
+  "k_list": "0,1,5,10",
+  "k_speed": 10,
+  "mu": 1.0,
+  "seed": 0,
+  "tmax_fixed": 25.0,
+  "tmax_wishart": 4000.0,
+  "wishart_m_factor": 1.1,
+  "wishart_ridge": 0.0,
+  "wishart_trials": 50
+}
