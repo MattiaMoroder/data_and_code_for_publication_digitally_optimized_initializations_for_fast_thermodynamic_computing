@@ -1,0 +1,20 @@
+{
+  "alpha": 0.05,
+  "d_max": 1000,
+  "d_min": 200,
+  "d_step": 100,
+  "d_trace": 500,
+  "ell": 1.0,
+  "epsilon_list": "1e-2, 1e-4, 1e-6",
+  "kBT": 1.0,
+  "k_list": "0,1,5,10",
+  "mdim": 5,
+  "mu": 1.0,
+  "n_points": 2500,
+  "s_data": 1.0,
+  "seed": 0,
+  "sigma2": 1e-06,
+  "tmax_fpt": 100000000.0,
+  "tmax_scaled": 13.0,
+  "trials": 500
+}
